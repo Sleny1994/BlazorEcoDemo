@@ -1,0 +1,12 @@
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/bin/Debug/net6.0/BlazorEcoDemo.Shared.deps.json
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/bin/Debug/net6.0/BlazorEcoDemo.Shared.dll
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/bin/Debug/net6.0/BlazorEcoDemo.Shared.pdb
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.csproj.AssemblyReference.cache
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.AssemblyInfoInputs.cache
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.AssemblyInfo.cs
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.csproj.CoreCompileInputs.cache
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.dll
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/refint/BlazorEcoDemo.Shared.dll
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.pdb
+/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/ref/BlazorEcoDemo.Shared.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/BlazorEcoDemo.Client.props" />
+</Project>
