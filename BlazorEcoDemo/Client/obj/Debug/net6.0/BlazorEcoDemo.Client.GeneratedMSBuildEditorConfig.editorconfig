@@ -5,49 +5,51 @@ build_property.UsingMicrosoftNETSdkWeb =
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorEcoDemo.Client
 build_property.RootNamespace = BlazorEcoDemo.Client
-build_property.ProjectDir = /Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/
+build_property.ProjectDir = D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client
+build_property.MSBuildProjectDirectory = D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/App.razor]
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/FetchData.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/Index.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/ProductList.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1Byb2R1Y3RMaXN0LnJhem9y
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/SurveyPrompt.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/_Imports.razor]
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-mcxfs2vhp9
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-a1dlcfludw
 
-[/Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = b-67k4hj4a90
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-agf55qfrdn
+
+[D:/Documents/04-Code/03_C\#/BlazorEcoDemo/BlazorEcoDemo/Client/Shared/ProductList.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-l9x50wfigb

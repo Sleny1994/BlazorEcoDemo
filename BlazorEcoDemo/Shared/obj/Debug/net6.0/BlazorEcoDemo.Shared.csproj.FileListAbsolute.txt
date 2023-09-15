@@ -10,3 +10,15 @@
 /Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/refint/BlazorEcoDemo.Shared.dll
 /Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/BlazorEcoDemo.Shared.pdb
 /Users/sunlingfeng/Projects/BlazorEcoDemo/BlazorEcoDemo/Shared/obj/Debug/net6.0/ref/BlazorEcoDemo.Shared.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\bin\Debug\net6.0\BlazorEcoDemo.Shared.deps.json
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\bin\Debug\net6.0\BlazorEcoDemo.Shared.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\bin\Debug\net6.0\BlazorEcoDemo.Shared.pdb
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.csproj.AssemblyReference.cache
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.AssemblyInfoInputs.cache
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.AssemblyInfo.cs
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.csproj.CoreCompileInputs.cache
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\refint\BlazorEcoDemo.Shared.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\BlazorEcoDemo.Shared.pdb
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Shared\obj\Debug\net6.0\ref\BlazorEcoDemo.Shared.dll
