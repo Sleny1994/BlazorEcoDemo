@@ -99,3 +99,8 @@ D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\obj\Debug\net6.0\r
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\obj\Debug\net6.0\BlazorEcoDemo.Server.pdb
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\obj\Debug\net6.0\BlazorEcoDemo.Server.genruntimeconfig.cache
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\obj\Debug\net6.0\ref\BlazorEcoDemo.Server.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Server\obj\Debug\net6.0\BlazorEcoDemo.Server.MvcApplicationPartsAssemblyInfo.cs

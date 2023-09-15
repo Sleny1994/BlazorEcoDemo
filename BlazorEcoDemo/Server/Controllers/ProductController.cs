@@ -34,5 +34,11 @@ namespace BlazorEcoDemo.Server.Controllers
                 Price = 8.9m
             }
         };
+
+        [HttpGet]
+        public async Task<ActionResult<List<Product>>> GetProduct()
+        {
+            return Ok(Products);
+        }
     }
 }

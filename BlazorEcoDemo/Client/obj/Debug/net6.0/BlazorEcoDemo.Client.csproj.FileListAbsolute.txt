@@ -1649,3 +1649,4 @@ D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\obj\Debug\net6.0\B
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\obj\Debug\net6.0\refint\BlazorEcoDemo.Client.dll
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\obj\Debug\net6.0\BlazorEcoDemo.Client.pdb
 D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\obj\Debug\net6.0\ref\BlazorEcoDemo.Client.dll
+D:\Documents\04-Code\03_C#\BlazorEcoDemo\BlazorEcoDemo\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
